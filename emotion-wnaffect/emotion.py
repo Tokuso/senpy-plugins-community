@@ -1,4 +1,6 @@
 
+# coding: utf-8
+
 """
 Clement Michard (c) 2015
 """
